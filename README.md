@@ -30,9 +30,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 Some of the challenges I went through while building this app were:
-  1) Learning PHP
-  2) Learning how to use a loop in this PHP Page application
-  3) Getting PHP to work on my localhost
+* Learning PHP
+* Learning how to utilize a loop for this PHP page
+* Getting PHP to work on my localhost
 
 ## License
 
